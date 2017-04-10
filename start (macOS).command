@@ -1,3 +1,3 @@
 #!/bin/bash
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
-cd "$DIR" && polymer serve -o -b "Google Chrome"
+cd "$DIR" && bower install && bower update && polymer serve -o -b "Google Chrome"
