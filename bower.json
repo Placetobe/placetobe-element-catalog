@@ -1,0 +1,42 @@
+{
+  "name": "placetobe-element-catalog",
+  "description": "A catalog showcasing Placetobe&#39;s Web Components",
+  "main": "placetobe-element-catalog.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.8.0",
+    "placetobe-create-testimonial-card": "placetobe/placetobe-create-testimonial-card",
+    "placetobe-button": "placetobe/placetobe-button",
+    "placetobe-campaign-stats-card": "placetobe/placetobe-campaign-stats-card",
+    "placetobe-campaign-page": "placetobe/placetobe-campaign-page",
+    "placetobe-popup": "placetobe/placetobe-popup",
+    "placetobe-invest-page": "placetobe/placetobe-invest-page",
+    "placetobe-stepper-form": "placetobe/placetobe-stepper-form",
+    "placetobe-survey": "placetobe/placetobe-survey",
+    "placetobe-textarea-box": "placetobe/placetobe-textarea-box",
+    "placetobe-signup-card": "placetobe/placetobe-signup-card",
+    "placetobe-signin-card": "placetobe/placetobe-signin-card",
+    "placetobe-input-box": "placetobe/placetobe-input-box",
+    "placetobe-mailinglist-subscribe-form": "placetobe/placetobe-mailinglist-subscribe-form",
+    "placetobe-footer": "placetobe/placetobe-footer",
+    "placetobe-header": "placetobe/placetobe-header",
+    "placetobe-navigation-bar": "placetobe/placetobe-navigation-bar",
+    "placetobe-icons": "placetobe/placetobe-icons",
+    "placetobe-harmonica": "placetobe/placetobe-harmonica",
+    "placetobe-card": "placetobe/placetobe-card",
+    "placetobe-illustrations": "placetobe/placetobe-illustrations",
+    "placetobe-main-menu": "placetobe/placetobe-main-menu",
+    "placetobe-styles": "placetobe/placetobe-styles",
+    "placetobe-hero": "placetobe/placetobe-hero",
+    "placetobe-quote": "placetobe/placetobe-quote",
+    "placetobe-cookie-warning": "placetobe/placetobe-cookie-warning",
+    "placetobe-logo": "placetobe/placetobe-logo",
+    "placetobe-campaign-progress-bar": "placetobe/placetobe-campaign-progress-bar",
+    "placetobe-campaign-card": "placetobe/placetobe-campaign-card"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
